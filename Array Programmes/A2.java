@@ -60,7 +60,7 @@ class A2{
 
 public static void main(String args[]){
 
-int arr[]={10,20,30};
+int arr[]={10,200,30};
 int count=0;
 for(int i=0;i<arr.length;i++){//i=2
 	for(int j=i+1;j<arr.length;j++){
@@ -68,6 +68,7 @@ for(int i=0;i<arr.length;i++){//i=2
 			count++;
 		}
 	}
+  }
 	if(count==0){
 	System.out.println("Yes Array elements are already sorted");
 
@@ -76,7 +77,7 @@ for(int i=0;i<arr.length;i++){//i=2
 	System.out.println("No Array elements are not sorted");
 
 
-	}
+	
 }
 }
 }

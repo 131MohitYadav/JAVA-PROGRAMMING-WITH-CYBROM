@@ -1,6 +1,6 @@
 // ARRAY PROGRAMMES 
 
-// Write a java programme to print  the alternate array element and element starts with 0
+// Write a java programme to print  the alternate  odd array element and element starts with 0
 
 import java.util.Scanner;
 
@@ -31,6 +31,7 @@ if ( i % 2 != 0 ){
 System.out.println(i + " Index Element " + arr [ i ] );
 }
 }
+
 }
 }
 
