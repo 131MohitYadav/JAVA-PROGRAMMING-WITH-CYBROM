@@ -1,6 +1,6 @@
 // Array Programmes
 
-// Write a java program to sort array in ascending order
+// Write a java program to sort array in Ascending order
 
 class ArraySort{
 
@@ -32,6 +32,7 @@ System.out.println(" \nAfter Sorting");
 for ( int i = 0; i< arr.length; i++){
 System.out.print("\t" + arr[i]);
 }
+System.out.println("\nGreatest Element: " + arr[arr.length -1 ]);
 
 }
 }
