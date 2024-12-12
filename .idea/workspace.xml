@@ -13,6 +13,9 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="selectedTabId" value="CurrentFile" />
@@ -27,24 +30,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Mohit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Name.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.SquareRoot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operator.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Mohit.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Name.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.spattern.executor&quot;: &quot;Run&quot;,
-    &quot;Remote JVM Debug.Unnamed.executor&quot;: &quot;Debug&quot;,
-    &quot;Remote JVM Debug.Welcome.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yadav/OneDrive/Documents/OneDrive/Desktop/JAVA PROGRAMMING&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Mohit.executor": "Run",
+    "Application.Name.executor": "Coverage",
+    "Application.SquareRoot.executor": "Run",
+    "Application.operator.executor": "Run",
+    "JUnit.Mohit.executor": "Run",
+    "JUnit.Name.executor": "Coverage",
+    "JUnit.spattern.executor": "Run",
+    "Remote JVM Debug.Unnamed.executor": "Debug",
+    "Remote JVM Debug.Welcome.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/yadav/OneDrive/Documents/OneDrive/Desktop/JAVA PROGRAMMING",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="javac Welcome" />
@@ -79,9 +83,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Mohit" />
       <item itemvalue="Application.Name" />
       <item itemvalue="Application.SquareRoot" />
+      <item itemvalue="Application.Mohit" />
     </list>
     <recent_temporary>
       <list>
