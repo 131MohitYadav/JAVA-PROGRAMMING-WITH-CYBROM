@@ -1,5 +1,5 @@
 // Write a java program to delete first and middle and last character of String
-
+// deleteCharAt() method
 
 class DeleteCharacter{
 public static void main(String args [ ]){
