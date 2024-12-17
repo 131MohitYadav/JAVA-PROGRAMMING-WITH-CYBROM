@@ -39,7 +39,7 @@ System.out.println("It is a vowel");
 break;
 
 default: 
-System.out.println("It is a vowel");
+System.out.println("It is not  a vowel");
 
 }
 
