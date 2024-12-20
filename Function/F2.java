@@ -1,4 +1,4 @@
-// Write a java programme to check given number is even or not using function[ Taking Nothin and Return Nothing ]?
+// Write a java programme to check given number is even or not using function[ Taking Nothing and Return Nothing ]?
 
 import java.util.Scanner;
 class F2{
