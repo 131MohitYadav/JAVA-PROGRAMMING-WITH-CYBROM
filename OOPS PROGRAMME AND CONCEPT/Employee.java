@@ -36,12 +36,14 @@ double getTA(){
 return sal * 0.2;
 }
  
-double grossSalary(){
- return sal + totalHDT;
+double getGrossSalary(double h , double d , double t){
+ //return sal + getHRA() + getDA() + getTA() ;
+return sal + h + d + t;
 }
 
-double getTotalIncentive(){
-return totalHDT;
+double getTotalIncentive(double h , double d , double t){
+//return getHRA() + getDA() + getTA();
+return h + d + t;
 }
 
 public static void main(String args [ ]){
@@ -53,8 +55,8 @@ e.showData();
 System.out.println("HRA : " + e.getHRA());
 System.out.println("DA : " + e.getDA());
 System.out.println("TA : " + e.getTA());
-System.out.println( " All Incentive : " + e.getTotalIncentive());
-//System.out.println( " All GrossSalary: " + e.grossSalary());
+System.out.println( " All Incentive : " + e.getTotalIncentive(double h , double d , double t));
+System.out.println( " All GrossSalary: " + e.getGrossSalary());
 
 }
 }

@@ -40,8 +40,8 @@ System.out.println("English marks is : " + E);
 int  getTotalMarks(){
 return P + C + M + H + E;
 }
-float getPerc(int totalmarks){
-  return (float) totalmarks / 5;
+float getPerc(){
+  return (float) getTotalMarks() / 5;
 }
 
 public static void main(String args [ ]){
@@ -50,10 +50,11 @@ Student s1 = new Student();
 
 s1.getData(); // these are member function
 s1.showData();
-int tm = s1.getTotalMarks();
-System.out.println("Total Marks is: " + tm);
-float p = s1.getPerc(tm);
-System.out.println("Percentage is : " + p);
+System.out.println( " total Marks is ; " + s1.getTotalMarks());
+//int tm = s1.getTotalMarks();
+//System.out.println("Total Marks is: " + tm);
+//float p = s1.getPerc(tm);
+System.out.println("Percentage is : " + s1.getPerc());
 
 }
 }
