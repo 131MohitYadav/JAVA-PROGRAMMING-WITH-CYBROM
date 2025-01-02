@@ -20,7 +20,7 @@ b = sc.nextInt();
 // perform the operation
 c = a + b;
 
-// print the result
+// return the result
 return c;
 }
 

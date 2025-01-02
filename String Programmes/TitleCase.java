@@ -14,7 +14,7 @@ public class TitleCase {
 
         String words [ ] = input.split(" ");
         for (String word : words) {
-                // Convert the first letter to uppercase and the remaining to lowercase
+                // Convert the first letter to uppercase and the remaining to lowercase 
                 String firstLetter = word.substring(0, 1).toUpperCase();
                 String remainingLetters = word.substring(1).toLowerCase();
                 result += firstLetter + remainingLetters + " ";

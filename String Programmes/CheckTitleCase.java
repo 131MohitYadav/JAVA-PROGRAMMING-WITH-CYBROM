@@ -15,6 +15,8 @@ public class CheckTitleCase {
         String words [ ] = input.split(" ");
         for (String word : words) {
                 
+// kohi bhi character uppercase mai nhi hona chakeye pehli index mai
+
    if (!Character.isUpperCase(word.charAt(0)) || !word.substring(1).equals(word.substring(1).toLowerCase())) {
                     Titlecase = false;
                     break; 

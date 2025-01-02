@@ -24,8 +24,5 @@ class Cir extends Point4{
 public static void main(String args [ ] ) {
 System.out.println("Circle class main method called");
 
-Point4 p1 = new Point4();
-Point4 p2 = new Point4(10,20);
-
 }
 }

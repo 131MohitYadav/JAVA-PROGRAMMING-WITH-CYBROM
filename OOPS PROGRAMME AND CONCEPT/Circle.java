@@ -22,7 +22,7 @@ void getArea(){
 System.out.println("Area: " + (3.14f * r * r));
 }
 void getCirc(){
-System.out.println("Perimeter: " + ( 2 * 3.14f * r ));
+System.out.println("Circumference: " + ( 2 * 3.14f * r ));
 }
 
 public static void main(String args [ ]){

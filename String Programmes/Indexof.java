@@ -8,7 +8,7 @@ public static void main(String args [ ]){
 String s = "Hello Mohit Yadav";
 
 int i = s.indexOf("o");
-int j = s.indexOf("o");
+int j = s.indexOf("o", i + 1);//
 int k = s.indexOf("av");
 int m = s.indexOf("zee");
 

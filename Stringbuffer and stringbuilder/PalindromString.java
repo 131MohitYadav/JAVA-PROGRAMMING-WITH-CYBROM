@@ -12,7 +12,7 @@ StringBuffer s2 = new StringBuffer(s1);
 String result = s2.reverse().toString();
 
 if ( result.equals(s1 )){
-System.out.println("This is Palindrom");
+System.out.println("This is Palindrom String");
 }
 else{
 System.out.println("This is not a Palindrome String");

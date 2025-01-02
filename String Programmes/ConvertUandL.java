@@ -1,4 +1,5 @@
 // Homwork program
+// Toggel program
 
 import java.util.Scanner;
 class CovertUandL{

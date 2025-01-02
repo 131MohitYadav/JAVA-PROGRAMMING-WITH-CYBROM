@@ -23,7 +23,7 @@ while ( n != 0){
 int r = n % 10;
 
 // factorial logic
-int fact = 1;
+int fact = 1;z
 for ( int i = r;  i >= 1 ; i--){
 fact = fact * i;
 }

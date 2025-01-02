@@ -11,15 +11,15 @@ System.out.print("ENTER ANY STRING: ");
 String s = sc.nextLine();
 
 String r = " ";
-String x = " ";
+
 for ( int x : s.toCharArray()){
 if ( x >= 'a' && x <= 'z'){
 x = x - 32;
-r = r + x;
+r = r + (char)x;
 }
 
 else{
-r = r + x;
+r = r + (char)x;
 }
 }
 System.out.println(r);

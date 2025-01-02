@@ -16,6 +16,7 @@ System.out.print("ENTER  ANY NUMBER: ");
 a = sc.nextInt();
 
 //step 3 -> perform operation
+// conditon for Prime
 for(int i = 1 ; i <=a ; i++){
 if ( a % i == 0){
 count++;

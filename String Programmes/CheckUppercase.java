@@ -10,7 +10,9 @@ Scanner sc = new Scanner(System.in);
 System.out.print("ENTER ANY STRING: ");
 String s = sc.nextLine();
 
-System.out.println(s.toUpperCase());
+// System.out.println(s.toUpperCase().equals(s));
+
+// ANOTHER METHOD
 
 }
-}
+} 

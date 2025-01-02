@@ -1,11 +1,11 @@
-// Write a java programme to print sum of two number with function types[
+// Write a java programme to print sum of two  with function types[
 //Taking Something Return Nothing]
 
 import java.util.Scanner;
 
 class F5{
 
-void add ( int a , int b){
+void add ( int a , int b){ // Formal Arugment
 // perform the operation
 int c = a + b;
 
