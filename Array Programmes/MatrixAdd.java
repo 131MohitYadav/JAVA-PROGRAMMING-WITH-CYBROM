@@ -1,5 +1,5 @@
 // MATRIX PROGRAMMES
-
+// Time complexity of this program -> big O(n3)
 // Write a java program to add two matrix?
 
 import java.util.Scanner;

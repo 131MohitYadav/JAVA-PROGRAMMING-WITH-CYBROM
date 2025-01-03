@@ -1,4 +1,4 @@
-// Write a java programme to take input from the user 
+// Write a java programme to take input from the user in 2D Array
 
 import java.util.Scanner;
 
@@ -9,6 +9,7 @@ public static void main(String args [ ] ) {
 Scanner sc = new Scanner(System.in);
 int A [ ] [ ] = new int [ 2] [5];
 
+// Input from the user
 for ( int r = 0; r < A.length; r++){
 for( int c = 0; c < A[r].length; c++){
 System.out.print("ENTER ELEMENT INDEX OF  " + r + c + " : ");
@@ -22,10 +23,10 @@ for ( int r = 0; r < A.length; r++){
 for( int c = 0; c < A[r].length; c++){
 System.out.print(" " + A[r][c]);
 }
-System.out.println("");
+System.out.println(" ");
 }
 
-}
+} 
 }
 
 

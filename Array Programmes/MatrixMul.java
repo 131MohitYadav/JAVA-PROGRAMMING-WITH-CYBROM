@@ -1,6 +1,6 @@
 // MATRIX PROGRAMMES
 // Time complexity of this program -> big O(n3)
-// Write a java program  Multiply  two matrix?
+// Write a java program  Multiply or Product two matrix?
 
 import java.util.Scanner;
 

@@ -11,7 +11,7 @@ System.out.println(s1);
 System.out.println(s2);
 System.out.println(s3);
 System.out.println(s4);
-System.out.println(s3 == s4);
+System.out.println(s3 == s4); // false
 System.out.println(s3.compareTo(s4) == 0); // true
 
 }

@@ -6,7 +6,9 @@ class ArrayRemove {
         int n = arr.length; // Length of the array
 
         if (n == 0 || n == 1) { 
-            return n;
+
+            System.out.println("Array is empty or has only one element");
+            return;
         }
 
         // Removing duplicates

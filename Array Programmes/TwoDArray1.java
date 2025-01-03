@@ -8,6 +8,7 @@ public static void main(String args [ ] ){
 // declare a 2d array
 
 int A [ ] [ ] = {
+ // jacked Array 
 		{1,2,3},
 		{4,5},
 		{3}

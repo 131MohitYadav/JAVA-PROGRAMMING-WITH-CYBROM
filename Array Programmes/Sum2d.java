@@ -14,9 +14,9 @@ for ( int r = 0; r<3; r++){
 	for( int c = 0; c < 3; c++){
 System.out.print("ENTER ELEMENT " + r +  c + " : ");
 A[r][c] = sc.nextInt();
-sum = sum + A[r][c];
+sum = sum + A[r][c];//10
 }
 }
-System.out.println("Sum : " +  sum);
+System.out.println("Sum of all 2d Element : " +  sum);
 }
 }

@@ -27,12 +27,12 @@ arr [ j ] = temp;
 }
 }
 
-System.out.println(" \nAfter Sorting");
+System.out.println(" \nAfter Sorting in Ascending Order");
 
 for ( int i = 0; i< arr.length; i++){
 System.out.print("\t" + arr[i]);
 }
-System.out.println("\nGreatest Element: " + arr[arr.length -1 ]);
+//System.out.println("\nGreatest Element: " + arr[arr.length -1 ]);
 
 }
 }

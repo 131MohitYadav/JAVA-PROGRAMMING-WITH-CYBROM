@@ -13,7 +13,6 @@ String str = sc.nextLine();
 
 for ( int i = str.length() - 1; i >= 0;  i--){
 char x = str.charAt(i); // 0 , 1 , 2, 3, 4 . . . 
-char x = str.length(i);
 System.out.print("\t" + x);
 }
 

@@ -1,4 +1,7 @@
+// compareTo Method
+
 // Write a java program to check which one String is greater on the basis order of the character
+
 
 import java.util.Scanner;
 

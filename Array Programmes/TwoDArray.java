@@ -9,6 +9,7 @@ public static void main(String args [ ] ){
 
 int A [ ] [ ] = new int[3] [3];
 
+// initiliaze the 2d array
 A[0][0] = 10;
 A[0][1] = 20;
 A[0][2] = 30;

@@ -1,6 +1,6 @@
 // ARRAY PROGRAMMES 
 
-// Write a java programme to convert given binary number
+// Write a java programme to convert given  number in binary number
 
 import java.util.Scanner;
 
