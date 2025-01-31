@@ -1,0 +1,9 @@
+// WRITE A ALGORITHM OF PERFECT NUMBER
+
+STEP 1 -> start
+STEP 2 -> Input a number
+STEP 3 -> Initiliaze the sum = 0
+STEP 4 -> Iterate the loop and less than equal to user input  I < N
+STEP 5 ->  Then divisor the  n % i == 0  it stored inside the sum variable 
+STEP 6 -> then check if  sum == n  it print perfect number
+STEP 7 -> end 
