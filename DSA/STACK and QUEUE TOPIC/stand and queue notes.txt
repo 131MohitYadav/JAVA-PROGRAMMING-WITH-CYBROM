@@ -1,0 +1,27 @@
+// STACK -> Linear data structure , (LIFO)
+
+time complexity => O(n) big of n
+
+PUSH OPERATION
+// step 1 : To check overflow
+// step 2 : increase the top by 1
+// step 3 : assign the value into the stack
+
+// POP OPERATION
+// step 1: to check underflow condition
+// step 2: Assign data into another variable
+// step 3 : Decrease top by 1
+// step 4: Return value of variable jismai stored kraya hai
+
+// QUEUE -> Linear data structure, (FIFO)
+
+IF FRONT AND REAR  FRONT == REAR IT MEANS IT HAVE ONE ELEMENT OR QUEUE IS EMPTY
+
+// ENQUEUE OPERATION
+step 1 : First check overflow condition
+step 2: To check Queue is empty Increase front and rear by 1
+step 3: If Queue is not empty then increase rear by 1
+step 4: Insert data into Queue
+
+
+
