@@ -10,7 +10,7 @@ sum = sum + a;
 System.out.println("The sum is: " + sum);
 }
 public static void main(String...args){
-add();
+add();																															
 
 }
 }

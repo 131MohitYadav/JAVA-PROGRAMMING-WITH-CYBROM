@@ -9,7 +9,7 @@ System.out.print("ENTER ANY STRING: ");
 String s = sc.nextLine();
 
 boolean alphaList [ ]  = new boolean[26];
-int index = 0;
+int index = 0; 
 int res = 1;
 for(int i = 0; i < s.length(); i++){
 	if ( s.charAt(i) >= 'A' && s.charAt(i) <= 'Z'){

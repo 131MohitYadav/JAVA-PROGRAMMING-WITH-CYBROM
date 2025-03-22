@@ -1,4 +1,4 @@
-// EXCEPTION HANDLING BY USING TRY AND CATCH  PROGRAMME
+// EXCEPTION HANDLING BY USING TRY AND FINALLY  PROGRAMME
 
 
 class Exc3{
@@ -17,8 +17,6 @@ System.out.println("Exit try");
 }
 finally{
 System.out.println("This is finally block");
-
-
 
 System.out.println(c);
 System.out.println("Bye");

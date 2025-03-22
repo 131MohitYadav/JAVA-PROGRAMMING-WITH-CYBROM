@@ -1,0 +1,31 @@
+// SPLIT THE ARRAY IN LEETCODE PLATFORM 
+
+import java.util.Arrays;
+
+class Solution {
+    public boolean canSplitArray(int[] nums) {
+        int n = nums.length;
+        if (n % 2 != 0) return false; // If array length is odd, splitting is impossible
+        
+        Arrays.sort(nums); // Sort the array
+        
+        int uniqueCount = 1; // Start with first element as unique
+        int count = 1; // Count occurrences of current number
+        
+        for (int i = 1; i < n; i++) {
+            if (nums[i] == nums[i - 1]) {
+                count++; // Increase count for the same number
+            } else {
+                if (count > 2) return false; // If any number appears more than twice, return false
+                uniqueCount++; // Found a new unique number
+                count = 1; // Reset count for the new number
+            }
+        }
+        
+        // Check last counted number
+        if (count > 2) return false;
+        
+        // We need at least `n/2` unique numbers
+        return uniqueCount >= (n / 2);
+    }
+}
