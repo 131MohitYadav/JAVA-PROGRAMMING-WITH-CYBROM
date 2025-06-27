@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48c41a56-1091-45e3-b88b-7328fd6a947e" name="Changes" comment="" />
+    <list default="true" id="48c41a56-1091-45e3-b88b-7328fd6a947e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;131MohitYadav&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/131MohitYadav/JAVA-PROGRAMMING-WITH-CYBROM.git&quot;,
+    &quot;accountId&quot;: &quot;97cca622-183f-4648-8007-e2e9daa3f7f0&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="selectedTabId" value="CurrentFile" />
@@ -34,7 +48,7 @@
   "keyToString": {
     "Application.Mohit.executor": "Run",
     "Application.Name.executor": "Coverage",
-    "Application.SquareRoot.executor": "Run",
+    "Application.SquareRoot.executor": "Debug",
     "Application.operator.executor": "Run",
     "JUnit.Mohit.executor": "Run",
     "JUnit.Name.executor": "Coverage",
@@ -43,10 +57,11 @@
     "Remote JVM Debug.Welcome.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/yadav/OneDrive/Documents/OneDrive/Desktop/JAVA PROGRAMMING",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -63,7 +78,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareRoot">
+  <component name="RunManager">
     <configuration name="Mohit" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Mohit" />
       <method v="2">
@@ -83,9 +98,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Name" />
       <item itemvalue="Application.SquareRoot" />
       <item itemvalue="Application.Mohit" />
+      <item itemvalue="JUnit.Name" />
     </list>
     <recent_temporary>
       <list>
