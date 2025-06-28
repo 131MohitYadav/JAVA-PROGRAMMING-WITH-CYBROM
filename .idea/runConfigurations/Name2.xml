@@ -1,8 +1,9 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Name" type="JUnit" factoryName="JUnit">
+    <module name="JAVA PROGRAMMING WITH CYBROM" />
     <shortenClasspath name="NONE" />
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-20" />
+    <option name="ALTERNATIVE_JRE_PATH" value="openjdk-24" />
     <option name="PACKAGE_NAME" value="" />
     <option name="MAIN_CLASS_NAME" value="" />
     <option name="METHOD_NAME" value="" />
