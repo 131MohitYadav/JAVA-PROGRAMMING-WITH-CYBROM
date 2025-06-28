@@ -42,30 +42,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Mohit.executor": "Run",
-    "Application.Name.executor": "Coverage",
-    "Application.SquareRoot.executor": "Run",
-    "Application.operator.executor": "Run",
-    "JUnit.Mohit.executor": "Run",
-    "JUnit.Name.executor": "Run",
-    "JUnit.spattern.executor": "Run",
-    "Remote JVM Debug.Unnamed.executor": "Debug",
-    "Remote JVM Debug.Welcome.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/yadav/OneDrive/Documents/OneDrive/Desktop/JAVA PROGRAMMING",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Mohit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Name.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.SquareRoot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operator.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Mohit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Name.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.spattern.executor&quot;: &quot;Run&quot;,
+    &quot;Remote JVM Debug.Unnamed.executor&quot;: &quot;Debug&quot;,
+    &quot;Remote JVM Debug.Welcome.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yadav/OneDrive/Documents/OneDrive/Desktop/JAVA PROGRAMMING&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="javac Welcome" />
@@ -144,8 +144,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SquareRoot" />
       <item itemvalue="Application.Mohit" />
+      <item itemvalue="Application.SquareRoot" />
       <item itemvalue="JUnit.Name" />
     </list>
     <recent_temporary>
