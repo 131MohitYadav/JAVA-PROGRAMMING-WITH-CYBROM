@@ -19,6 +19,7 @@ public static void main(String args [ ] ) {
     sub = c -d;
 
     System.out.println(sum);
+    System.out.println(sub);
 
 }
 }
