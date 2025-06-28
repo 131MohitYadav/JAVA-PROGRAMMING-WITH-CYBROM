@@ -7,6 +7,8 @@ public static void main(String args [ ] ) {
 
 // declare a variable
     int a, b, sum;
+    int c ,d;
+    int sub;
 
 // initialize the variable
 
