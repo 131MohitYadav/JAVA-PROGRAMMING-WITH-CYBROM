@@ -66,18 +66,6 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="/private/var/folders/5k/slsrk9d90bg806p4zvyx829m0000gn/T/qodana_output/qodana.sarif.json" />
-        <option name="reportGuid" value="9dd26922-3241-42d0-a0cb-5217d43b6d4d" />
-        <option name="reportName" value="CheckLeapYear.java/qodana/2025-06-28" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="/private/var/folders/5k/slsrk9d90bg806p4zvyx829m0000gn/T/qodana_output/qodana.sarif.json" reportGuid="9dd26922-3241-42d0-a0cb-5217d43b6d4d" reportId="CheckLeapYear.java/qodana/2025-06-28" />
@@ -161,8 +149,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SquareRoot" />
       <item itemvalue="Application.Mohit" />
+      <item itemvalue="Application.SquareRoot" />
       <item itemvalue="JUnit.Name" />
     </list>
     <recent_temporary>
