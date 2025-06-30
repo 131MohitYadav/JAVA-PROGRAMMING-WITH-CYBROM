@@ -23,6 +23,7 @@ public class CharacterCounts {
         System.out.println("Digits: " + digits);
         System.out.println("Spaces: " + spaces);
         System.out.println("Special Characters: " + specialChars);
+        System.out.println("Nothing to character");
 
     }
 }
